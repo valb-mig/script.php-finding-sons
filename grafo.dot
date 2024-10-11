@@ -1,0 +1,3 @@
+digraph G {
+    normas -> "register_globals.php";
+}

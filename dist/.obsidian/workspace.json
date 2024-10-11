@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "94a158b906879bc9",
+        "id": "9cf5ce2fd6f0e11c",
         "type": "tabs",
         "children": [
           {
-            "id": "1f5800750071222c",
+            "id": "4e9617cd8c6d0154",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -135,36 +135,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "1f5800750071222c",
+  "active": "4e9617cd8c6d0154",
   "lastOpenFiles": [
+    "Teste.md",
+    "diagram.dot",
+    "Untitled.canvas",
+    "2024-10-11.md",
+    "grafo.drawio",
+    "grafo.graphml",
+    "grafo.dot",
+    "teste.md",
+    "___tmp.php.md",
+    "libs_hostsphp.inc.md",
+    "_Index_of_dist.md",
+    "zarbold.php.md",
+    "register_globals.php.md",
+    "index.php.md",
     "colors.php.md",
     "download_parcelas.php.md",
-    "sess_limpa.cgi.md",
     "robo_propostas.php.md",
     "retorno_boleto_bv.php.md",
     "modelo.php.md",
-    "register_globals.php.md",
-    "integracao_talk_old2.md",
-    "public.md",
     "script_reemb_notif_tabela_antiga.php.md",
     "pesquisa_resultado.php.md",
-    "index.php.md",
-    "src.md",
-    "extra.md",
-    "molicar.md",
-    "integracao_talk_old.md",
-    "integracao_olos.md",
-    "boleto_imob.md",
-    "boletos_conf.php.md",
-    "composer.phar.md",
-    "script_reemb_notif_tabela_nova.php.md",
-    "integracao_callflex_2_alpheratz.md",
-    "cotacao.php.md",
-    "download_parcelas_bradesco_sa.php.md",
-    "arial.ttf.md",
-    "socket_close.php.md"
+    "retboleto_0814_37037_5.php.md",
+    "hsbc_remessa_beb.php.md",
+    "hsbc_retorno_beb24.php.md",
+    "hsbc_carga.php.md",
+    "callflex_itau_env_extra_info.php.md",
+    "libs_migracao.inc.md",
+    "reclassifica_faixas_dacasa.php.md",
+    "carga_srrcpj.php.md"
   ]
 }
