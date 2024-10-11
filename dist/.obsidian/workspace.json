@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "962e328e06bbe543",
+    "type": "split",
+    "children": [
+      {
+        "id": "94a158b906879bc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f5800750071222c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5478530c21cb549",
+    "type": "split",
+    "children": [
+      {
+        "id": "03722a4179decdb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdfe30e8f8ca1919",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1852d5ffd4e67449",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d7edbeed09664f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2c7468506a3e18a",
+    "type": "split",
+    "children": [
+      {
+        "id": "795e570d49df1afb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a04b6fcea0c35bc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97e68fc8e2d23b75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3a634b887b04310",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e972fe7b8979329",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1f5800750071222c",
+  "lastOpenFiles": [
+    "colors.php.md",
+    "download_parcelas.php.md",
+    "sess_limpa.cgi.md",
+    "robo_propostas.php.md",
+    "retorno_boleto_bv.php.md",
+    "modelo.php.md",
+    "register_globals.php.md",
+    "integracao_talk_old2.md",
+    "public.md",
+    "script_reemb_notif_tabela_antiga.php.md",
+    "pesquisa_resultado.php.md",
+    "index.php.md",
+    "src.md",
+    "extra.md",
+    "molicar.md",
+    "integracao_talk_old.md",
+    "integracao_olos.md",
+    "boleto_imob.md",
+    "boletos_conf.php.md",
+    "composer.phar.md",
+    "script_reemb_notif_tabela_nova.php.md",
+    "integracao_callflex_2_alpheratz.md",
+    "cotacao.php.md",
+    "download_parcelas_bradesco_sa.php.md",
+    "arial.ttf.md",
+    "socket_close.php.md"
+  ]
+}
