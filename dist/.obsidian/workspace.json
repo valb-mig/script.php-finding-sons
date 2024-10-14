@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cf5ce2fd6f0e11c",
+        "id": "09a75df708ae7d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "4e9617cd8c6d0154",
+            "id": "d6195b60cf464fba",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -135,40 +135,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "juggl:Juggl global graph": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4e9617cd8c6d0154",
+  "active": "d6195b60cf464fba",
   "lastOpenFiles": [
-    "Teste.md",
-    "diagram.dot",
-    "Untitled.canvas",
-    "2024-10-11.md",
-    "grafo.drawio",
-    "grafo.graphml",
-    "grafo.dot",
-    "teste.md",
-    "___tmp.php.md",
-    "libs_hostsphp.inc.md",
-    "_Index_of_dist.md",
-    "zarbold.php.md",
-    "register_globals.php.md",
-    "index.php.md",
+    "!README.md",
+    "gerador_boleto_pdf.php.md",
     "colors.php.md",
     "download_parcelas.php.md",
     "robo_propostas.php.md",
     "retorno_boleto_bv.php.md",
     "modelo.php.md",
+    "register_globals.php.md",
     "script_reemb_notif_tabela_antiga.php.md",
     "pesquisa_resultado.php.md",
     "retboleto_0814_37037_5.php.md",
+    "libs_hostsphp.inc.md",
     "hsbc_remessa_beb.php.md",
     "hsbc_retorno_beb24.php.md",
     "hsbc_carga.php.md",
     "callflex_itau_env_extra_info.php.md",
     "libs_migracao.inc.md",
     "reclassifica_faixas_dacasa.php.md",
-    "carga_srrcpj.php.md"
+    "carga_srrcpj.php.md",
+    "itaucred.php.md",
+    "lib.php.md",
+    "itaucred_atualizacao.php.md",
+    "regua.inc.md",
+    "atz_honorarios_siba_prest_contas.php.md",
+    "libs_mysql.inc.md",
+    "retboletosvwmanual.php.md",
+    "lu4466935iasf.tmp",
+    "lu4466935iasd.tmp",
+    "diagram.dot",
+    "Untitled.canvas",
+    "grafo.drawio",
+    "grafo.graphml",
+    "grafo.dot"
   ]
 }
